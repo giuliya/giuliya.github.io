@@ -3,5 +3,9 @@
 <body>
 <h1> Welcome to PIXAR! </h1>
 </body>
-<img src="https://web.archive.org/web/19971108131306im_/http://www.pixar.com/logo/pixarlogofront.gif">
+<body>
+<center>
+<p> <img src="https://web.archive.org/web/19971108131306im_/http://www.pixar.com/logo/pixarlogofront.gif"> </p>
+</center>
+</body>
 </html>
